@@ -28,6 +28,8 @@ yarn create next-app --example with-jest with-jest-app
 pnpm create next-app --example with-jest with-jest-app
 ```
 
+Test
+
 ## Running Tests
 
 ```bash
